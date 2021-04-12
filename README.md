@@ -4,4 +4,4 @@
 
 # I'm Pedro Lucas
 I'm in the first year of Computer Engineering in 
-[UFPB.](http://ci.ufpb.br/)
+[UFPB](http://ci.ufpb.br/).
