@@ -3,7 +3,9 @@
 </div>
 
 # I'm Pedro Lucas🙋‍♂️
-[![Gmail Badge](https://img.shields.io/badge/-plvm0220@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:plvm0220@gmail.com)](mailto:plvm0220@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-plvm0220@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:plvm0220@gmail.com)](mailto:plvm0220@gmail.com)
+
+https://img.shields.io/badge/-plvm0220@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:plvm0220@gmail.com
 
 I'm in the first year of Computer Engineering in 
 [UFPB](http://ci.ufpb.br/).
