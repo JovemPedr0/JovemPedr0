@@ -3,7 +3,8 @@
 </div>
 
 # I'm Pedro Lucas🙋‍♂️
-[Gmail][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]
 
 I'm in the first year of Computer Engineering in 
 [UFPB](http://ci.ufpb.br/).
