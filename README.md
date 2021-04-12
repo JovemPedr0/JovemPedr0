@@ -3,5 +3,5 @@
 </div>
 
 # I'm Pedro Lucas
-I'm in the first year of Computer Engineering in UFPB.
-[Flex Grid](http://ci.ufpb.br/)
+I'm in the first year of Computer Engineering in 
+[UFPB.](http://ci.ufpb.br/)
