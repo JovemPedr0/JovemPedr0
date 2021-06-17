@@ -4,7 +4,7 @@
 
 # I'm Pedro Lucas🙋‍♂️
 [![Gmail Badge](https://img.shields.io/badge/-plvm0220@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:plvm0220@gmail.com)](mailto:plvm0220@gmail.com/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-valeriano-de-mira-466407211/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/pedro-lucas-valeriano-de-mira-466407211/)](https://www.linkedin.com/in/pedro-lucas-valeriano-de-mira-466407211/)
 
 I'm in the first year of Computer Engineering in 
 [UFPB](http://ci.ufpb.br/).
