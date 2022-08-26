@@ -3,8 +3,6 @@
 </div>
 
 # I'm Pedro Lucas🙋‍♂️
-
-## About
    - I'm in the second year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
    - Reseacher at <a href="https://laser.ci.ufpb.br/en/">LaSER</a><br/>
    - Vice President and Volunteer Researcher at <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a><br/>
