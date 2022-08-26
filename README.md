@@ -3,7 +3,7 @@
 </div>
 
 # I'm Pedro Lucas🙋‍♂️
-[![Gmail Badge](https://img.shields.io/badge/-plvm0220@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:plvm0220@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/-plvm0220@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](plvm0220@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/pedro-lucas-valeriano-de-mira-466407211/)](https://www.linkedin.com/in/pedro-lucas-466407211/)
 
 I'm in the first year of Computer Engineering in 
