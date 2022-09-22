@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="400" width="300" src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif" >
+    <img height="300" width="400" src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif" >
 </div>
 
 # I'm Pedro Lucas🙋‍♂️
