@@ -5,7 +5,7 @@
 # I'm Pedro Lucas
    - I'm in the second year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
    - Reseacher at <a href="https://laser.ci.ufpb.br/en/">LaSER</a>.<br/>
-   - Vice President and Volunteer Researcher at <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a>.<br/>
+   - Volunteer Researcher at <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a>.<br/>
    - I have interest in Robotics, Data Science and AI.
 
 <div align="center">
