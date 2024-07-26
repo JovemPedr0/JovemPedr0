@@ -6,7 +6,6 @@
    - I'm in the third year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
    - Data Science and RDI reseacher Intern at [Radix Engenharia e Software](https://www.radixeng.com.br/).
    - Reseacher at <a href="https://laser.ci.ufpb.br/en/">LaSER</a>.<br/>
-   - Volunteer Researcher at <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a>.<br/>
    - I have interest in Robotics, Data Science and AI.
 
 <div align="center">
