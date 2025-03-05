@@ -3,10 +3,9 @@
 </div>
 
 # I'm Pedro Lucas
-   - I'm in the third year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
-   - Data Science and RDI reseacher Intern at [Radix Engenharia e Software](https://www.radixeng.com.br/).
+   - I'm in the fourt year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
    - Reseacher at <a href="https://laser.ci.ufpb.br/en/">LaSER</a>.<br/>
-   - I have interest in Robotics, Data Science and AI.
+   - I have interest in AI.
 
 <div align="center">
   <a href="https://github.com/JovemPedr0">
