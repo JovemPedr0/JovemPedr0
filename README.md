@@ -3,7 +3,7 @@
 </div>
 
 # I'm Pedro Lucas
-   - I'm in the fourt year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
+   - I'm in the fourth year of Computer Engineering at [UFPB](http://ci.ufpb.br/).
    - Reseacher at <a href="https://laser.ci.ufpb.br/en/">LaSER</a>.<br/>
    - I have interest in AI.
 
